@@ -1,5 +1,18 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-09T00:00:00Z",
-  "extensions": []
+  "lastUpdated": "2026-02-09T12:00:00Z",
+  "extensions": [
+    {
+      "id": "drawing-statistics",
+      "name": "Drawing Statistics",
+      "version": "1.0.0",
+      "author": "OpenAEC Community",
+      "description": "Displays shape count and drawing statistics. Adds a ribbon button and a terminal command.",
+      "category": "Utility",
+      "tags": ["statistics", "utility", "shapes", "count"],
+      "minAppVersion": "0.15.0",
+      "repository": "https://github.com/OpenAEC-Foundation/ext-drawing-statistics",
+      "downloadUrl": "https://github.com/OpenAEC-Foundation/ext-drawing-statistics/releases/download/v1.0.0/drawing-statistics-1.0.0.zip"
+    }
+  ]
 }
