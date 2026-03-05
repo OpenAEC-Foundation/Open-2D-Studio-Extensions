@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-09T13:30:00Z",
+  "lastUpdated": "2026-03-05T18:20:00Z",
   "extensions": [
     {
       "id": "drawing-statistics",
@@ -13,6 +13,18 @@
       "minAppVersion": "0.15.0",
       "repository": "https://github.com/OpenAEC-Foundation/ext-drawing-statistics",
       "downloadUrl": "https://github.com/OpenAEC-Foundation/ext-drawing-statistics/releases/download/v1.0.1/drawing-statistics-1.0.1.zip"
+    },
+    {
+      "id": "aec",
+      "name": "AEC (Architecture, Engineering, Construction)",
+      "version": "0.1.0",
+      "author": "OpenAEC Foundation",
+      "description": "Structural engineering: beams, walls, slabs, piles, grids, levels, sections, spaces, and IFC export.",
+      "category": "Structure",
+      "tags": ["aec", "structural", "ifc", "beam", "wall", "slab", "pile"],
+      "minAppVersion": "0.31.0",
+      "repository": "https://github.com/OpenAEC-Foundation/open-2D-studio-AEC-extension",
+      "downloadUrl": "https://github.com/OpenAEC-Foundation/open-2D-studio-AEC-extension/releases/download/v0.1.0/aec-extension.zip"
     }
   ]
 }
